@@ -1,0 +1,24 @@
+import React from "react";
+import { Link } from "react-router-dom";
+import INFO from "../../assets/data/user"
+import "./logo.css";
+
+const Logo = (props) => {
+	let { width, link } = props;
+
+	if (link === undefined) {
+		link = true;
+	}
+
+	const imageElement = (
+		<img src={INFO.main.logo} alt="logo" className="logo" width={width} />
+	);
+
+	return (
+		<>
+			{link ? <Link to="/">{imageElement}</Link> : imageElement}
+		</>
+	);
+};
+
+export default Logo;
