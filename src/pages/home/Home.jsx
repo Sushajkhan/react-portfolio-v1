@@ -6,8 +6,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
 
 	faGithub,
-	faStackOverflow,
-	faInstagram,
+	
 	faLinkedin,
 	faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
@@ -141,16 +140,7 @@ const Home = () => {
 									className="homepage-social-icon"
 								/>
 							</a>
-							<a
-								href={INFO.socials.stackoverflow}
-								target="_blank"
-								rel="noreferrer"
-							>
-								<FontAwesomeIcon
-									icon={faStackOverflow}
-									className="homepage-social-icon"
-								/>
-							</a>
+							
 							<a
 								href={INFO.socials.whatsapp}
 								target="_blank"
