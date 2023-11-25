@@ -32,12 +32,12 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "CInema.",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://unblast.com/wp-content/uploads/2020/05/Website-Mockup.jpg",
+				"Movie and tv show search app made using React,Redux,Axios & TMDB Api",
+			logo: "/Project1.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://screen-mauve.vercel.app/",
 		},
 
 		{
