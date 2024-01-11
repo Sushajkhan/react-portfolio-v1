@@ -63,8 +63,8 @@ const INFO = {
       title: "React Portfolio",
       description: "Portfolio made using React",
       logo: "/portfolio.png",
-      linkText: "https://github.com/Sushajkhan/react-portfolio-v1",
-      link: "https://github.com",
+      linkText: "View Project",
+      link: "https://github.com/Sushajkhan/react-portfolio-v1",
     },
   ],
 };
