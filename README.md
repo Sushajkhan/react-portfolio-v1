@@ -1,8 +1,21 @@
-# React + Vite
+<br />
+<div align="center">
+  <h3 align="center">Portfolio </h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <p align="center">
+  Portfolio using React
+    <br />
+    <a href="https://github.com/Sushajkhan/react-portfolio-v1"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://dazzling-biscuit-804ed5.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/Sushajkhan/react-portfolio-v1/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Sushajkhan/react-portfolio-v1/issues">Request Feature</a>
+  </p>
+</div>
 
-Currently, two official plugins are available:
+<img src="./public/preview.png" alt="preview"/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
