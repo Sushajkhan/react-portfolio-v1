@@ -29,7 +29,8 @@ const INFO = {
   projects: [
     {
       title: "Hire ",
-      description: "Hire is a job portal app made using MERN Stack. ",
+      description:
+        "Hire-A job portal app made using React,Node.js,Express.js,MongoDB. ",
       logo: "/hire.png",
       linkText: "View Project",
       link: "https://github.com/Sushajkhan/Hire-Job-Portal",
@@ -37,7 +38,7 @@ const INFO = {
     {
       title: "Sportify",
       description:
-        "Sportify is an online playground booking app made using MERN Stack",
+        "Sportify- A playground booking app made using React, Node.js, Express.js, MongoDB. ",
       logo: "/sportify.png",
       linkText: "View Project",
       link: "https://github.com/Sushajkhan/sportify-turf-booking",
