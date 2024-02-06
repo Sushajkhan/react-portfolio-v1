@@ -39,7 +39,9 @@ const NavBar = (props) => {
               <li
                 className={active === "resume" ? "nav-item active" : "nav-item"}
               >
-                <Link to="/resume">Resume</Link>
+                <Link to="https://drive.google.com/file/d/10G0n5noEvIbnUPX0ZJM24dZ6Yd9x9fEa/view?usp=drive_link">
+                  Resume
+                </Link>
               </li>
             </ul>
           </div>

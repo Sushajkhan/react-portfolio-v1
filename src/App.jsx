@@ -5,7 +5,6 @@ import Projects from "./pages/projects/Projects";
 import Contact from "./pages/contact/Contact";
 import Notfound from "./pages/404/NotFound";
 import { Route, Routes } from "react-router-dom";
-import Resume from "./pages/resume/Resume";
 
 function App() {
   return (
@@ -15,7 +14,6 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="/resume" element={<Resume />} />
 
         <Route path="*" element={<Notfound />} />
       </Routes>
