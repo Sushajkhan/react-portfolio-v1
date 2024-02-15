@@ -49,7 +49,7 @@ const INFO = {
         "Movie and tv show search app made using React,Redux,Axios & TMDB Api",
       logo: "/cinema.png",
       linkText: "View Project",
-      link: "https://screen-mauve.vercel.app/",
+      link: "https://github.com/Sushajkhan/Cinema.",
     },
 
     {
